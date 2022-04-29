@@ -1,0 +1,7 @@
+Link para downloado do Git - https://git-scm.com/downloads
+
+Novas modificações com a versão 2.36
+
+Entendendo na íntegra os comandos usuais do Git
+
+Erro Fatal para push no origin main, entendendo o(s) motivos.
